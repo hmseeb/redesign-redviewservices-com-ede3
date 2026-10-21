@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Redview Services">
+  <rect width="64" height="64" rx="14" fill="#9e1b22"/>
+  <path d="M32 13 50 28v3H14v-3L32 13z" fill="#ffffff" opacity=".92"/>
+  <path d="M20 31h24v19H20z" fill="#ffffff" opacity=".18"/>
+  <text x="32" y="47" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">R</text>
+</svg>
